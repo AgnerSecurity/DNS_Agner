@@ -1,4 +1,9 @@
 # DNS_Agner
+
+
+![](https://i.imgur.com/SrVjNfT.png)
+
+
 Um DNS recursivo para ser instalado em menos de 5 minutos em seu servidor de redes ou provedor de internet
 
 Pré-requisitos:
